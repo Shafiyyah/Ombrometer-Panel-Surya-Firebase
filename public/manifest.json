@@ -1,0 +1,1 @@
+{"name":"Ombrometer Monitoring System","short_name":"FTU Ombrometer","theme_color":"#3f51b5","icons":[{"src":"./logo-no-background.png","sizes":"1500x462","type":"image/png","purpose":"any maskable"},{"src":"./logo-no-background512.png","sizes":"512x512","type":"image/png","purpose":"any"}],"start_url":"./#/login","display":"standalone","background_color":"#000000"}

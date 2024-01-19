@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.snovelab.ftumonitor.twa",
+    "sha256_cert_fingerprints": [
+      "A1:45:D2:19:31:FD:4D:BB:8A:9A:1B:FA:1A:CE:8F:00:AF:E2:6A:C4:E8:6B:59:C4:F2:09:38:79:12:51:C9:B0"
+    ]
+  }
+}]
